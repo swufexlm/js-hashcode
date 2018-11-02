@@ -1,0 +1,29 @@
+{
+    "name": "js-hashcode",
+    "version": "0.0.1",
+    "description": "A JavaScript HashCode calculator like Java",
+    "main": "index.js",
+    "files": [
+        "lib",
+        "index.js",
+        "LICENSE"
+    ],
+    "scripts": {
+        "test": "node ./test/test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/swufexlm/js-hashcode.git"
+    },
+    "keywords": [
+        "js",
+        "node",
+        "hashcode"
+    ],
+    "author": "lanmi.xin@gmail.com",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/swufexlm/js-hashcode/issues"
+    },
+    "homepage": "https://github.com/swufexlm/js-hashcode#readme"
+}
