@@ -1,2 +1,2 @@
-const hashcode = require('./lib/hashcode');
+const hashcode = require('./src/hashcode');
 module.exports = hashcode;

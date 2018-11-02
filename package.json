@@ -1,10 +1,10 @@
 {
-    "name": "js-hashcode",
+    "name": "@swufexlm/js-hashcode",
     "version": "0.0.1",
     "description": "A JavaScript HashCode calculator like Java",
     "main": "index.js",
     "files": [
-        "lib",
+        "src",
         "index.js",
         "LICENSE"
     ],
