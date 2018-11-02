@@ -5,7 +5,7 @@ A JavaScript HashCode calculator like Java.
 Now this library can only calcuate String's hashCode.
 
 ```
-const hashCode = require('@swufexlm/js-hashCode');
+const hashCode = require('@swufexlm/js-hashcode');
 
 console.log(hashCode('ABCDEFG'));
 console.log(hashCode('字符串'));
